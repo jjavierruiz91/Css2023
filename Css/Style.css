@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    background-color: red;
+    width: 400px;
+    margin: 2px;
+    text-align: center;
+  
+}
+/* selector de clases se inicia con . */
+
+.titulo1{
+    color: blue;
+}
+
+.titulo2{
+    color: green;
+}
+
+.parrafo{
+    color: darkmagenta;
+}
